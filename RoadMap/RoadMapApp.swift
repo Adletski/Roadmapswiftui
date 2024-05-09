@@ -11,7 +11,7 @@ import SwiftUI
 struct RoadMapApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Shop()
         }
     }
 }
